@@ -5,7 +5,7 @@ Creating a cloud storage bucket and uploading files on it.
 Tools: GCP (Google cloud platform) - Free tier
 
 Deliverables:
-public URL: <a href="https://storage.googleapis.com/bucket-hello-duniya_elevate-labs/kitten.png">
+public URL: <a href="https://storage.googleapis.com/bucket-hello-duniya_elevate-labs/kitten.png"> https://storage.googleapis.com/bucket-hello-duniya_elevate-labs/kitten.png </a>
 
 Preview Screenshots -
 <img width="1920" height="1080" alt="Screenshot_public-access-working" src="https://github.com/user-attachments/assets/ddbb210d-a76c-41e4-ac8c-2b4da269cf0c" />
